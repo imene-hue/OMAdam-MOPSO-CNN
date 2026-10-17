@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+_TEST_WRITE_*
+
+*_iter_checkpoint.npz
+*_partial.npz
+
+.DS_Store
+Thumbs.db
